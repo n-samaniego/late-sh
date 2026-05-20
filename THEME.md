@@ -103,6 +103,7 @@ Your palette should keep these states clearly distinguishable:
 
 <details open>
   <summary>A full list of configurable 'palette states':</summary>
+
   - bg_canvas
   - bg_selection
   - bg_highlight
