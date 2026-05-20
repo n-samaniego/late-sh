@@ -101,8 +101,8 @@ Your palette should keep these states clearly distinguishable:
 - bonsai greens
 - badge colors
 
-A full list of configurable 'palette states':
-- <details open>
+<details open>
+  <summary>A full list of configurable 'palette states':</summary>
   - bg_canvas
   - bg_selection
   - bg_highlight
@@ -130,7 +130,7 @@ A full list of configurable 'palette states':
   - badge_bronze
   - badge_silver
   - badge_gold
-  </details>
+</details>
 
 ## Readability requirements
 
