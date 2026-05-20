@@ -351,6 +351,7 @@ Installer defaults:
 
 Release workflow:
 - `.github/workflows/deploy_cli.yml` builds `late-cli` release artifacts
+- Linux CI/release jobs install `libwebkit2gtk-4.1-dev` because the embedded YouTube webview compiles `wry`/WebKitGTK even when the normal terminal path is the primary runtime.
 - Publishes versioned releases plus `latest`
 - Publishes `install.sh` and `install.ps1` at the distribution root
 
